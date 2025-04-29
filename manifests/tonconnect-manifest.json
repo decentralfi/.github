@@ -1,5 +1,5 @@
 {
     "url": "https://xyzwallet.app",                    
     "name": "xyzwallet",                     
-    "iconUrl": "./public/logo.png"           
+    "iconUrl": "https://raw.githubusercontent.com/decentralfi/.github/refs/heads/manifests/logo/logo.png"           
 }
